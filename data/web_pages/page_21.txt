@@ -1,0 +1,552 @@
+Account Verification - Angel One
+Calculate your SIP Return
+Open Demat Account
+Stocks
+Knowledge Center
+Blogs
+Reports
+Podcasts
+Related Search
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Popular Stocks
+SBI Share Price
+Adani Enterprises Share Price
+Reliance Share Price
+Mazagon Dock Share Price
+ITC Share Price
+HDFC Bank Share Price
+Infosys Share Price
+Adani Ports Share Price
+TCS Share Price
+Tata Motors Share Price
+Stocks
+Knowledge Center
+Blogs
+Reports
+Podcasts
+Related Search
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Please Wait...
+Popular Stocks
+SBI Share Price
+Adani Enterprises Share Price
+Reliance Share Price
+Mazagon Dock Share Price
+ITC Share Price
+HDFC Bank Share Price
+Infosys Share Price
+Adani Ports Share Price
+TCS Share Price
+Tata Motors Share Price
+Open Demat Account
+Open Demat Account
+Login
+Open Demat Account
+Open Demat Account
+Login
+Trade & Invest
+Stocks
+Indices
+NFO
+ETF
+Upcoming IPO
+Mutual Funds & SIP
+SIP Calculator
+Mutual Funds
+AMCs
+Types of Mutual Fund
+Mutual Fund Screener
+Learn
+Live Blog
+Knowledge Center
+Smart Money
+Finance Wiki
+News
+Products
+Angel One Super App
+Angel One Trade
+Smart API
+Become a Partner
+Authorised Person
+Mutual Fund Distributor
+Authorised Person Locator
+Pricing
+Support
+User Manual
+Read FAQs
+Contact Us
+Tata IPL 2025
+Download App
+Home
+›
+Support
+›
+Account Verification
+›
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+Account Verification
+Account Verification
+Consent & Security
+Eligibility
+Fixed Deposit Options
+Payments and Withdrawal
+Post Purchase
+Why do I need to verify my mobile number?
+Verifying your mobile number helps us create a secure account for you, ensuring a smooth app experience and the safety of your account.
+Can I continue if the mobile number linked to my bank is different from the one registered with the app?
+No, your details, including your mobile number, must match those verified by our banking partner. A mismatch will result in your application being rejected by the bank.
+Why are permissions to send SMS and access phone state required?
+These permissions are needed to verify your mobile number by sending an SMS. Rest assured, these permissions are used solely for verification purposes.
+Can I link any SIM for FD purchase if I have a dual SIM phone?
+Yes, you can. However, we recommend using the SIM registered with your bank account for authentication.
+Can I retry the registration if it was not successful earlier?
+Yes, you can retry. Ensure you use the SIM linked to your bank account for authentication.
+Can I invest in FD if I do not have a PAN?
+No, currently, we only process fixed deposit requests for individuals with an active PAN.
+Why is my PAN not getting verified?
+For booking fixed deposits, we need to verify your PAN with the regulated authorities. If there is a mismatch, the booking cannot be completed.
+What should I do if the name shown against my PAN is incorrect and I can't update it?
+The name linked to your PAN should be accurate for successful identity verification and KYC purposes. Please update your name to match your PAN.
+Why is my Aadhar required?
+Aadhar is mandatory for identification and KYC setup for your account, necessary for processing your FD request.
+Do I need a physical copy of my Aadhar?
+No, a physical copy is not required. We use secure platforms like DigiLocker and CKYC for verifying your Aadhar and other documents.
+What is DigiLocker?
+DigiLocker is a government initiative under the Digital India project for storing and verifying documents like PAN card, driving license, Aadhar card, school marksheets, and insurance papers.
+What should I do if there's a name mismatch and I can't complete the step?
+For successful FD booking, the name on your Aadhar and PAN should match. Correct the details on either your PAN or Aadhar card and retry.
+How can I add a new address as my current address?
+Use the “add” button on the address choice screen to add an address that is not listed.
+What should I do if I can't change my permanent address?
+The address from your Aadhar is considered your permanent address. You may add or select your current address to proceed with the FD application.
+Can my permanent address be the same as my current address?
+Yes, you can select your permanent address as your current address if they are the same.
+Why is video KYC required?
+Video KYC is required to complete the KYC verification step as mandated by the RBI.
+What if I am not available during bank working hours?
+If you have made the payment, we will notify you when the bank officers are available. If video KYC is not completed within 3 days, your money will be refunded to your bank account.
+When can I complete the Video KYC?
+Video KYC is available from Monday to Saturday, 09:00 AM to 08:00 PM. We will notify you to complete the video KYC during these hours if pending.
+What if video KYC fails?
+You can retry during banking hours within 2 days of FD booking if your video KYC fails.
+How will I know the status of my video KYC?
+Your video KYC details are verified by bank officers, which may take up to 3 hours. Track the video KYC and FD confirmation status on the ‘My Investments’ tab.
+What should I do if I can't move to the next step and complete my KYC verification?
+Retry using the correct details. If it still doesn’t work, try again later. If the issue persists, raise a ticket with our support team for assistance.
+Why are details related to occupation, income, and family required for FD booking?
+These details are required by the bank to create your fixed deposit and ensure communication if needed.
+Why is my money deducted before video KYC?
+Your money is deducted before video KYC as it is the last step to verify your identity and book your FD. Your money is safe with the bank, and interest starts accumulating from the time of payment. In case of issues with VKYC, your money will be refunded within 7 working days.
+What is required for completing a video KYC?
+Keep your PAN Card and a blank paper with a pen ready for the VKYC process.
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US
+Open Free Demat Account!
+Join our 3 Cr+ happy customers
++91
+4.4 Cr+
+DOWNLOADS
+Start an SIP at just ₹100!
+Get the link to download the App
+ABOUT US
+Trusted by over 3Cr+ clients, Angel One is one of India’s leading
+            retail full-service broking houses. We offer a wide range of innovative
+            services, including online trading and investing, advisory, margin trading
+            facility, algorithmic trading, smart orders, etc. Angel One App is a
+            powerhouse of cutting-edge tools such as basket orders, GTT orders,
+            SmartAPI, advanced charts and others that help you navigate capital
+            markets like a pro.
+COMPANY OVERVIEW
+Open Demat Account
+Brokerage & Other Charges
+Contact Us
+About Us
+In the Media
+Investor Relations
+Webinars
+Careers
+INVESTMENT OPTIONS
+Stocks
+Mutual Funds
+SIP with 100 Rupees
+SIP with 500 Rupees
+NFO
+ETF
+Upcoming IPO
+Futures
+Options
+US Stocks
+US ETF
+Currencies
+Commodities
+NCD
+Corporate Bonds
+Tax Free Bonds
+54EC bonds
+Sovereign Gold Bond
+Tax Saving Bonds
+CALCULATORS
+Brokerage Calculator
+Margin Calculator
+SIP Calculator
+Lumpsum Calculator
+CAGR Calculator
+Dividend Yield
+                        Calculator
+Future Value
+                        Calculator
+Compound Interest
+                        Rate Calculator
+FD Calculator
+RD Calculator
+Present Value Calculator
+EBITDA Calculator
+Mutual Fund
+                        Returns Calculator
+PPF Calculator
+EMI Calculator
+KNOWLEDGE CENTER
+Mutual Funds
+Demat Account
+Trading Account
+Online Share
+                        Trading
+Intraday Trading
+Share Market
+IPO
+Derivatives
+Commodities
+                        Trading
+Futures and Options
+                        Trading
+Income tax
+Authorised Person
+Analyst Corner
+LEARN TO EARN
+Knowledge Center
+Smart Money
+News
+Fundamental
+                        Research
+Technical Research
+Company
+                        Reports
+Angel One - Community
+Be Vigilant - Jagruk
+                        Tejabhai
+BECOME A PARTNER
+Become Business Partner
+Become DRA
+Who is an
+                        Authorised person?
+Benefits of being an Authorised Person
+Authorised Person Income
+Eligibility &
+                        Documents Required
+Authorised
+                        Person Business Model
+Authorised Person App
+                        & NXT platform
+Authorised Person
+                        Details
+Authorised Person
+                        Locator
+MARKET OUTLOOK
+Share Market
+Announcements
+Share Market Holidays 2025
+Share Market Glossary
+52-week High
+52-week Low
+Top Gainers
+Top Losers
+UPCOMING IPO
+HDB Financial Services IPO
+Oyo IPO
+MobiKwik IPO
+Fabindia IPO
+Navi Technologies IPO
+Byju's IPO
+TOP STOCKS TO INVEST
+IRFC share price
+Suzlon
+                            share price
+IREDA share price
+Tata
+                            Motors share price
+Yes Bank
+                            share price
+HDFC Bank
+                            share price
+NHPC share
+                            price
+RVNL share price
+SBI
+                            share price
+Tata
+                            Power share price
+Tata
+                            Steel share price
+Adani
+                            Power share price
+PNB
+                            share price
+Zomato share
+                            price
+BEL share price
+Reliance share price
+Infosys
+                            share price
+ITC share
+                            price
+Jio Finance share price
+LIC share price
+CUSTOMER SUPPORT :
+18001020
+Support FAQs
+FOLLOW US :
+FOLLOW US :
+OTHER LINKS :
+Angel One APP
+Angel One Trade
+Angel SpeedPro
+Margin Trading Facility
+Smart API
+PARTNERS :
+Sensibull
+Smallcase
+Streak
+Vested
+TradingView
+INDICES :
+Nifty 50
+Nifty Bank
+Nifty Financial Services
+Nifty Next 50
+Nifty Midcap 100
+BSE Sensex
+India Vix
+STOCKS :
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+US STOCKS :
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Gold Rates
+                    :
+Gold Rate Today in Mumbai
+Gold Rate Today in Delhi
+Gold Rate Today in Chennai
+Gold Rate Today in
+                    Hyderabad
+Gold Rate Today in
+                    Bangalore
+Mutual Fund AMCs :
+Angel One Mutual Fund
+SBI Mutual Funds
+Axis Mutual Funds
+HDFC Mutual Funds
+ICICI Prudential Mutual
+                    Funds
+Nippon India Mutual
+                    Funds
+MUTUAL FUNDS CATEGORIES :
+ELSS Funds
+Liquid Funds
+Small Cap Funds
+Arbitrage Funds
+Gilt Funds
+Mid Cap Funds
+Multi Cap Funds
+Large Cap Funds
+Attention Investors
+Stock Brokers can accept securities as margin from clients only by way of pledge in the depository system w.e.f. September 1, 2020.
+Update your mobile number & email Id with your stock broker/depository participant and receive OTP directly from depository on your email id and/or mobile number to create pledge.
+Pay 20% or "var + elm" whichever is higher as upfront margin of the transaction value to trade in cash market segment.
+Investors may please refer to the Exchange's Frequently Asked Questions (FAQs) issued vide circular reference NSE/INSP/45191 dated July 31, 2020 and NSE/INSP/45534 dated August 31, 2020 and other guidelines issued from time to time in this regard.
+Check your Securities /MF/ Bonds in the consolidated account statement issued by NSDL/CDSL every month.
+Prevent Unauthorised transactions in your Trading/Demat Account. Update your mobile numbers/email IDs with your stock brokers/Depository Participant. Receive alerts/information of your transaction/all debit and other important transactions in your Trading/ Demat Account directly from Exchange/CDSL at the end of the day. Issued in the interest of investors.
+KYC is one time exercise while dealing in securities markets - once KYC is done through a SEBI registered intermediary (broker, DP, Mutual Fund etc.), you need not undergo the same process again when you approach another intermediary.
+No need to issue cheques by investors while subscribing to IPO. Just write the bank account number and sign in the application form to authorise your bank to make payment in case of allotment. No worries for refund as the money remains in investor's account.
+We understand that certain investment advisors may be approaching members of the public including our clients, representing that they are our partners, or representing that their investment advice is based on our research. Please note that we have not engaged any third parties to render any investment advisory services on our behalf. We do not share our research reports or our clients’ personal or financial data with any third parties and have not authorized any such person to represent us in any manner. Persons making investments on the basis of such advice may lose all or a part of their investments along with the fee paid to such unscrupulous persons. Please be cautious about any phone call that you may receive from persons representing to be such investment advisors, or a part of research firm offering advice on securities. Do not make payments through e-mail links, WhatsApp or SMS. Please do not share your personal or financial information with any person without proper verification. Always trade through a registered broker.
+Issued in public interest by Angel One Limited, having its registered office at 601, 6th Floor, Ackruti Star, Central Road, MIDC, Andheri East, Mumbai - 400093, Telephone: +91 22 4000 3600, Fax: + 91 22 2835 8811.
+Disclaimer
+Investments in securities market are subject to market risk, read all the
+  related documents carefully before investing.
+We collect, retain, and use your contact information for legitimate business
+  purposes only, to contact you and to provide you information & latest updates
+  regarding our products & services.
+We do not sell or rent your contact information to third parties.
+Please note that by submitting the above-mentioned details, you are
+  authorizing us to Call/SMS you even though you may be registered under DND. We
+  shall Call/SMS you for a period of 12 months.
+Angel One Limited, Registered Office: 601, 6th Floor, Ackruti Star, Central
+  Road, MIDC, Andheri East, Mumbai - 400093. Tel: 18001020. CIN:
+  L67120MH1996PLC101709, SEBI Regn. No.: INZ000161534-BSE Cash/F&O/CD (Member
+  ID: 612), NSE Cash/F&O/CD (Member ID: 12798), MSEI Cash/F&O/CD (Member ID:
+  10500), MCX Commodity Derivatives (Member ID: 12685) and NCDEX Commodity
+  Derivatives (Member ID: 220), CDSL Regn. No.: IN-DP-384-2018, PMS Regn. No.:
+  INP000001546, Research Analyst SEBI Regn. No.: INH000000164, Investment
+  Adviser SEBI Regn. No.: INA000008172,  AMFI-registered Mutual Fund Distributor - ARN-77404, (Date of initial Registration -03-12-2009, Current validity of ARN- 02-12-2026). PFRDA
+  Registration No.19092018.Compliance officer: Mr. Bineet Jha, Tel: 18001020
+  Email:
+compliance@angelbroking.com
+. Only for National Pension Scheme (NPS) related grievances please mail to
+NPSgrievances@angelbroking.com
+Grievance Redressal Officer (GRO) - Mr Karan Dalal, Mo. No : 8655719858
+For issues related to cyber attacks, call us at
++91-8045070444
+or email us at
+cybersecurityissues@angelbroking.com.
+For any Law Enforcement Agency notices, please reach out / send notices to
+legal@angelbroking.com
+Brokerage will not exceed the SEBI prescribed limit.
+Research Disclaimer
+Regulatory Content
+Dos and Don'ts to Safe Investing
+Scores
+Dos and Don'ts While Dealing With Investment Advisor
+FAQs
+T&C Apply
+Privacy Policy
+Digital Lending - Privacy Policy
+AngelOne Personal Loans
+Investor Charter
+Advisory for Investors
+NCL Collateral
+CDSL eVoting
+NSDL eVoting
+ODR Portal
+Risk Disclosure on Derivatives
+Caution for Investors
+Copyright - All rights reserved
+Open Free Demat Account!
+₹0 brokerage for first 30 days*
+Join our 3 Cr+ happy customers
++91
+Minimal Brokerage Charges
+₹0 brokerage on stock investments and flat ₹0 AMC for first year.
+ARQ Prime
+Make smart decisions with ARQ prime, a rule based investment engine
+Technology Enabled
+Trade or invest anywhere, anytime with our App or web platforms
+Fast-track your investing journey with Us,  India’s fastest growing fintech company
++91
+Select City
+By proceeding, I agree to
+T&C
+and
+Privacy Policy
+.
+Do you already have an account?
+Login
+Open an Account
+×
+Initializing Search...
+Copyright - All rights reserved
+We collect, retain, and use your contact information for legitimate business purposes only, to contact you and to provide you information & latest updates regarding our products & services.
+			We do not sell or rent your contact information to third parties.
+Please note that by submitting the above mentioned details, you are authorizing us to Call/SMS you even though you may be registered under DND. We shall Call/SMS you for a period of 12 months.
+Brokerage will not exceed SEBI prescribed limits
+Disclaimer
+Privacy Policy
+Any Grievances related the aforesaid brokerage scheme will not be entertained on exchange platform.
