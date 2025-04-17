@@ -7,6 +7,7 @@ from langchain_core.runnables import Runnable
 from langchain_core.outputs import Generation, LLMResult
 from typing import Optional, List, Any, Dict, Generator
 from google import genai
+import streamlit as st
 
 class GeminiLLM(BaseLLM, Runnable):
     model_name: str = "gemini-2.0-flash"
