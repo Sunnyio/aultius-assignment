@@ -1,4 +1,7 @@
 langchain
+langchain-community
+langchain-core
+langchain-huggingface
 faiss-cpu
 openai
 streamlit
@@ -7,3 +10,4 @@ unstructured
 PyPDF2
 requests
 tqdm
+google-generativeai
