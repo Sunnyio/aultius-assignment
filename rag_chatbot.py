@@ -17,7 +17,7 @@ class GeminiLLM(BaseLLM, Runnable):
         super().__init__()
         self.model_name = model_name
         self.temperature = temperature
-        api_key = os.environ.get("GOOGLE_API_KEY")
+        api_key = st.secrets["api_keys"]["GOOGLE_API_KEY"]
         if not api_key:
             raise ValueError(
                 "GOOGLE_API_KEY environment variable is not set. "
